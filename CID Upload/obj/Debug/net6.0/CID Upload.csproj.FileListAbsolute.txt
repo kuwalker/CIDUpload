@@ -30,3 +30,35 @@ D:\training\React practice\CID Upload\CID Upload\obj\Debug\net6.0\refint\CID Upl
 D:\training\React practice\CID Upload\CID Upload\obj\Debug\net6.0\CID Upload.pdb
 D:\training\React practice\CID Upload\CID Upload\obj\Debug\net6.0\CID Upload.genruntimeconfig.cache
 D:\training\React practice\CID Upload\CID Upload\obj\Debug\net6.0\ref\CID Upload.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\appsettings.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.exe
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.deps.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.runtimeconfig.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.pdb
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.AssemblyReference.cache
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.AssemblyInfoInputs.cache
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.AssemblyInfo.cs
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.CoreCompileInputs.cache
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.CID Upload.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.build.CID Upload.props
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CID Upload.props
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CID Upload.props
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\scopedcss\bundle\CID Upload.styles.css
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.CopyComplete
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\refint\CID Upload.dll
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.pdb
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.genruntimeconfig.cache
+C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\ref\CID Upload.dll
