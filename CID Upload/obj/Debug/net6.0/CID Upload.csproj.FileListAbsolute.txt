@@ -62,3 +62,53 @@ C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debu
 C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.pdb
 C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.genruntimeconfig.cache
 C:\Users\AVUNKUMA\OneDrive - Capgemini\Desktop\CID\CIDUpload\CID Upload\obj\Debug\net6.0\ref\CID Upload.dll
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.AssemblyReference.cache
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.AssemblyInfoInputs.cache
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.AssemblyInfo.cs
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.CoreCompileInputs.cache
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.MvcApplicationPartsAssemblyInfo.cs
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.MvcApplicationPartsAssemblyInfo.cache
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.dll
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\refint\CID Upload.dll
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.pdb
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\appsettings.Development.json
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\appsettings.json
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.exe
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.deps.json
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.runtimeconfig.json
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\CID Upload.pdb
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\MimeTypes.Core.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.CID Upload.Microsoft.AspNetCore.StaticWebAssets.props
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.build.CID Upload.props
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CID Upload.props
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CID Upload.props
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.pack.json
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.build.json
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\staticwebassets.development.json
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\scopedcss\bundle\CID Upload.styles.css
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.csproj.CopyComplete
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\CID Upload.genruntimeconfig.cache
+D:\training\React practice\CIDUpload\CID Upload\obj\Debug\net6.0\ref\CID Upload.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Azure.Core.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\System.Memory.Data.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\System.Text.Json.dll
+D:\training\React practice\CIDUpload\CID Upload\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
